@@ -1,0 +1,1 @@
+# CriteriaQueryJoinExample2
